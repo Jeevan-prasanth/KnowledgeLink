@@ -62,12 +62,12 @@ Ensure you have the following installed on your system:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/0aaryan/pdf-img-chatbot/
+   git clone https://github.com/Jeevan-prasanth/KnowledgeLink.git
    ```
 
 2. **Navigate to the project directory**
    ```sh
-   cd pdf-img-chatbot
+   cd KnowledgeLink
    ```
 
 3. **Set up a virtual environment**
